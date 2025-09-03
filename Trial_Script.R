@@ -2,4 +2,4 @@
 ## Date: 9/3/25
 ## Last edited by:
 
-git init
+git config pull.rebase false
